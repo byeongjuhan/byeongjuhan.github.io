@@ -433,14 +433,16 @@ overflow: auto;
 
     // Section
     .bg-gray {
-        padding-top: 2vw;
-        padding-bottom: 2vw;
-        padding-left: 5vw;
+        padding: 10px;
+        // padding-top: 2vw;
+        // padding-bottom: 2vw;
+        // padding-left: 5px;
     }
     .bg-white {
-        padding-top: 2vw;
-        padding-bottom: 2vw;
-        padding-left: 5vw;
+        padding: 10px;
+        // padding-top: 2vw;
+        // padding-bottom: 5px;
+        // padding-left: 5px;
     }
         
 }

@@ -1,0 +1,25 @@
+title: Byeongju Han
+url: "https://byeongju-han.github.io"
+baseurl: ""
+
+markdown: kramdown
+# ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+# footer: yes
+footer: no
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "CV"
+   link: "/bjhan/cv.pdf"
+ - name: "Github"
+   link: "https://github.com/byeongju-han"
+ - name: "Contact"
+   link: "mailto:bjhan@unist.ac.kr"
